@@ -11,4 +11,4 @@ Download the Vex Cad files [here](https://github.com/MaristVexRobotics/CAD/archi
 
 NOTE: you can decrease the install size of Inventor by about 8GB by deselecting all but the first two options in the installer.
 
-Once you download the Cad files, EXTRACT it to the location of your choice, and double click on "VEX KOP 2013 Imperial.ipj"
+#####Once you download the Cad files, EXTRACT it to the location of your choice, and double click on "VEX KOP 2013 Imperial.ipj"
